@@ -1967,6 +1967,14 @@ input, select, textarea {
 		opacity: 1.0;
 	}
 
+	.alert{
+		text-align: center;
+		padding: 10px;
+		background: #49bf9d;
+		color: #fff4f4;
+		margin-bottom: 10px;
+		display:  none;
+	}
 /* Box */
 
 	.box {
